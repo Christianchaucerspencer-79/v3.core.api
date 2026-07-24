@@ -1,4 +1,3 @@
-# v3.core.api// 同步 ID: 4296308e @ Mon May 25 00:28:07 UTC 2026
 // 同步 ID: 46ac0ebc @ Sat May 30 16:53:21 UTC 2026
 // 同步 ID: 63265681 @ Wed Jun  3 16:54:39 UTC 2026
 // 同步 ID: 9b3c03a6 @ Fri Jun  5 00:37:26 UTC 2026
@@ -28,3 +27,4 @@
 // 同步 ID: 1784ef01 @ Sun Jul 19 22:39:20 UTC 2026
 // 同步 ID: d670083f @ Tue Jul 21 04:23:10 UTC 2026
 // 同步 ID: d6747a9c @ Thu Jul 23 15:20:43 UTC 2026
+// 同步 ID: 3778061d @ Fri Jul 24 12:01:57 UTC 2026
